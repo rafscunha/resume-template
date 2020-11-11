@@ -1,13 +1,18 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Técnico em Eletromecânica
+  uni: SENAI - Serviço Nacional de Aprendizagem Industrial
+  year: 2012 &mdash; 2013
   awards:
-    - award: Summa Cumme Laude graduate
   summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
+- degree: Bacharelado em Ciência da Computação
+  uni: UNIOESTE - Universidade Estadual do Oeste do Paraná
+  year: 2015 &mdash; 2017
+  awards:
+  summary: If you had any meaningful roles at college, feel free to write about them here
+
+- degree: Bacharelado em Engenharia Química
+  uni: UNILA - Universidade Federal da Integração Latino-Americana
+  year: 2018 - 2023
   award: Most likely to succeed
   summary: You can choose to have either a single or multiple awards

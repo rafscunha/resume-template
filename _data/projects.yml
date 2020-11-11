@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# AeroCataratas
+- project: AeroCataratas
+  role: Capitão de Equipe 
+  duration: 2015 &mdash; 2016
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Gerenciar o projeto, construção e testes da aeronave não tripulada "PINGUIM" integrando os cursos de engenharia mecânica, elétrica e ciência da computação da UNIOESTE, com o objetivo de competir na SAE AeroDesign 2016.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Capybara
+- project: Capybara
+  role: Voluntário
+  duration: 2016
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Desenvolvimento de uma distribuição línux para os calouros de ciência da computação, assim como a confecção de manuais para inicar o uso da plataforma linux.

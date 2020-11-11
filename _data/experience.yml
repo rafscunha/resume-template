@@ -1,19 +1,25 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Professor Senai
+- company: SENAI - Serviço Nacional de Aprendizagem Industrial
+  position: Professor Autônomo
+  duration: Fev, 2014 &mdash; Fev 2015
+  summary: Ministrando aulas para o curso técnico em eletromecânica	<ul class="resume-item-list"><li>Disciplinas Ministradas</li><li>Projeto de Sistemas Mecânicos</li><li>Projetos de Sistemas Automatizados</li><li>Processos de fabricação para metalmecânica</li><li>Elementos de Máquinas</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Estagiário LASSE
+- company: LASSE - Laboratório de Automação e Simulação de Sistemas Elétricos
+  position: Estagiário 
+  duration:  Set, 2016 &mdash; Mar, 2017
+  summary: Desenvolvimento de sistema web que para monitoramento dos estados dos equipamentos e a interação com objetos 3D utilizando Angular2 e Three.js.
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Bolsista PTI
+- company: Grupo de Pesquisa e Desenvolvimento em Baterias Industriais - PTI
+  position: Bolsista - Iniciação Científica
+  duration:   Set, 2018  &mdash; Set, 2019
+  summary: Elaboração de técnicas para produção a baixo custo de termopares, assim como o estudo das metodologias para realizar sua leitura e desenvolvimento de um leitor de multiplos termopares utilizando EPS8266.
+  
+  # Termotecno
+- company: TermoTecno - Soluções e Design em fornos elétricos
+  position: Sócio Proprietário e Analista de Software
+  duration:   Jan, 2020  &mdash; Atualmente
+  summary: Projeto, construção e manutenção de fornos elétricos industriais, comerciais e laboratóriais. Projeto de controlador para o controle dos processos de aquecimento dos fornos elétricos assim como controle de pressão e outros periféricos ligados aos processos.
